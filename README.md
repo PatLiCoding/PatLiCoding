@@ -25,10 +25,5 @@ Ich erweitere gerade mein Toolkit, um echte Fullstack-Anwendungen zu bauen:
 
 ---
 
-### 📊 Meine Fortschritte
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN-NUTZERNAME&layout=compact&theme=vision-friendly-dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEIN-NUTZERNAME&show_icons=true&theme=vision-friendly-dark)
-
-
 ### ⚡ Fun Fact
 Während ich im Frontend Pixel perfekt schiebe, freue ich mich im Backend über jeden `print("Hello World")`, der fehlerfrei läuft. 🐍
