@@ -34,6 +34,7 @@ Ich erweitere gerade mein Toolkit, um echte Fullstack-Anwendungen zu bauen:
 | Join         | https://github.com/PatLiCoding/join.git          | Aufgabenmanager, inspiriert vom Kanban-System. Aufgaben per Drag & Drop erstellen und organisieren, Benutzer und Kategorien zuweisen.  |
 | El Polo Loco | https://github.com/PatLiCoding/El-Pollo-Loco.git | Jump&Run Spiel - ein objektorientiertes Spiel. |
 | Coderr       | https://github.com/PatLiCoding/Coderr.git        | Coderr ist eine RESTful-Backend-API für eine Freelancer-Marktplatz-Plattform. Sie bietet Funktionen für Authentifizierung, Profilverwaltung,                                                                                  Serviceangebote, Auftragsabwicklung, Bewertungen sowie aggregierte Plattformstatistiken. |
+| Dice Pirate  | https://github.com/PatLiCoding/dice-pirate.git   | Ein unterhaltsames, browserbasiertes Würfelspiel für Solo-Spieler und Gruppen. |
 
 ---
 
