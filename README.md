@@ -39,5 +39,5 @@ Ich erweitere gerade mein Toolkit, um echte Fullstack-Anwendungen zu bauen:
 
 ---
 
-###  Fun Fact
-Während ich im Frontend Pixel perfekt schiebe, freue ich mich im Backend über jeden `print("Hello World")`, der fehlerfrei läuft. 🐍
+###  Fun Fact 🦎
+Während ich Angular-Frontends mit Django-Backends verbinde, behält mein Leopardgecko von ihrem Terrarium aus meine saubere Git-Historie im Blick. 
