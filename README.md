@@ -30,11 +30,12 @@ Ich erweitere gerade mein Toolkit, um echte Fullstack-Anwendungen zu bauen:
 ###  Projekte
 | Projekt      | Link                                             | Projekt-Beschreibung                                                                                                                   |
 | ------------ | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------  |
-| Pokedex      | https://github.com/PatLiCoding/Pokedex.git       | Ein Projekt, das API-Nutzung demonstriert, indem Pokémon-Informationen dynamisch angezeigt werden. |
-| Join         | https://github.com/PatLiCoding/join.git          | Aufgabenmanager, inspiriert vom Kanban-System. Aufgaben per Drag & Drop erstellen und organisieren, Benutzer und Kategorien zuweisen.  |
 | El Polo Loco | https://github.com/PatLiCoding/El-Pollo-Loco.git | Jump&Run Spiel - ein objektorientiertes Spiel. |
-| Coderr       | https://github.com/PatLiCoding/Coderr.git        | Coderr ist eine RESTful-Backend-API für eine Freelancer-Marktplatz-Plattform. Sie bietet Funktionen für Authentifizierung, Profilverwaltung,                                                                                  Serviceangebote, Auftragsabwicklung, Bewertungen sowie aggregierte Plattformstatistiken. |
+| Join         | https://github.com/PatLiCoding/join.git          | Aufgabenmanager, inspiriert vom Kanban-System. Aufgaben per Drag & Drop erstellen und organisieren, Benutzer und Kategorien zuweisen.  |
 | Dice Pirate  | https://github.com/PatLiCoding/dice-pirate.git   | Ein unterhaltsames, browserbasiertes Würfelspiel für Solo-Spieler und Gruppen. |
+| Coderr       | https://github.com/PatLiCoding/Coderr.git        | Coderr ist eine RESTful-Backend-API für eine Freelancer-Marktplatz-Plattform. Sie bietet Funktionen für Authentifizierung, Profilverwaltung,                                                                                  Serviceangebote, Auftragsabwicklung, Bewertungen sowie aggregierte Plattformstatistiken. |
+| Quizzly      | https://github.com/PatLiCoding/Quizly.git        | Ein intelligenter Webdienst, der mit Django und dem Django REST Framework (DRF) entwickelt wurde und mithilfe der Google Gemini API automatisch                                                                               strukturierte Quizze mit 10 Multiple-Choice-Fragen aus YouTube-Videotranskripten erstellt. |
+| Videoflix    | https://github.com/PatLiCoding/Videoflix.git     | A Django REST Framework backend für Videoflix, einer Video-Streaming-Plattform. |
 
 ---
 
