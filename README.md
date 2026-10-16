@@ -38,7 +38,7 @@ Expanding my toolkit to build complete, end-to-end fullstack applications:
 | **Coderr** | [GitHub](https://github.com/PatLiCoding/Coderr) | [Demo](https://patricia-linne.de/Coderr/index.html) | RESTful backend API for a freelance platform including auth, service offers, order processing, and user reviews. |
 | **Join** | [GitHub](https://github.com/PatLiCoding/join) | [Demo](https://patricia-linne.de/join/login) | Kanban task manager featuring drag-and-drop, user assignment, and category management. |
 | **El Pollo Loco** | [GitHub](https://github.com/PatLiCoding/El-Pollo-Loco) | [Demo](https://patricia-linne.de/El%20Pollo%20Loco/index.html) | Object-oriented 2D jump-and-run game built on HTML5 Canvas with custom collision physics. |
-| **Dice Pirate** | [GitHub](https://github.com/PatLiCoding/dice-pirate) | [Demo](https://dice-pirate.de/) | Browser-based dice game supporting single-player and multiplayer modes. |
+| **Bookly** | [GitHub](https://github.com/PatLiCoding/bookly.git) | [Demo](https://patricia-linne.de/bookly/) | Bookly is a bookshop built with React, TypeScript and Supabase, featuring book browsing, search, filters, cart, orders, reviews, user profiles and an admin area. |
 
 ---
 
